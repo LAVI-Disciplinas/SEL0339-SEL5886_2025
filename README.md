@@ -4,7 +4,7 @@
 
 ### Instruções gerais:
 
- - O link para as listas de exercício estão localizadas no [final dessa página](https://github.com/LAVI-USP/SEL0339-SEL5886_2025#listas-de-exercício).
+ - O link para as listas de exercício estão localizadas no final dessa página.
  - O [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) é uma ferramenta que permite escrever e executar códigos Python no seu navegador sem a necessidade de instalar nada. O Colab nada mais é do que um [Jupyter notebook](https://jupyter.org) hospedado pelo Google.
  - As instruções específicas de cada exercício se encontram no jupyter notebook de cada prática.
  - [Aqui](/extra) você pode encontrar a indicação de cursos, tutoriais, etc, sobre python, jupyter notebook, bibliotecas utilizadas e etc.
